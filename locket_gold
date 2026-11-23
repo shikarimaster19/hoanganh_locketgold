@@ -1,1 +1,32 @@
-IyFuYW1lPSBDb21iaW5lZCBNb2R1bGUgKFNwb3RpZnkgTHlyaWNzICsgTG9ja2V0IEdvbGQgKyBZb3VUdWJlIEFkYmxvY2sgKyBTb3VuZENsb3VkIEdvKykKIyFkZXNjPSBH4buZcCBjw6FjIG1vZHVsZTogROG7i2NoIGzhu51pIFNwb3RpZnksIExvY2tldCBHb2xkLCBZb3VUdWJlIFByZW1pdW0vTm8gQWRzLCBTb3VuZENsb3VkIEdvKwoKW1J1bGVdCkFORCwoKERPTUFJTi1TVUZGSVgsZ29vZ2xldmlkZW8uY29tKSwgKFBST1RPQ09MLFVEUCkpLFJFSkVDVApBTkQsKChET01BSU4seW91dHViZWkuZ29vZ2xlYXBpcy5jb20pLCAoUFJPVE9DT0wsVURQKSksUkVKRUNUCgpbVVJMIFJld3JpdGVdCiheaHR0cHM/OlwvXC9bXHctXStcLmdvb2dsZXZpZGVvXC5jb21cLyg/IWRjbGtfdmlkZW9fYWRzKS4rPykmY3RpZXI9TCgmLis/KSxjdGllciwoLispICQxJDIkMyAzMDIKXmh0dHBzPzpcL1wvW1x3LV0rXC5nb29nbGV2aWRlb1wuY29tXC8oPyEoZGNsa192aWRlb19hZHN8dmlkZW9wbGF5YmFja1w/KSkuKyZvYWQgXyByZWplY3QtMjAwCl5odHRwcz86XC9cLyh3d3d8cylcLnlvdXR1YmVcLmNvbVwvYXBpXC9zdGF0c1wvYWRzIF8gcmVqZWN0LTIwMApeaHR0cHM/OlwvXC8od3d3fHMpXC55b3V0dWJlXC5jb21cLyhwYWdlYWR8cHRyYWNraW5nKSBfIHJlamVjdC0yMDAKXmh0dHBzPzpcL1wvc1wueW91dHViZVwuY29tXC9hcGlcL3N0YXRzXC9xb2VcP2FkY29udGV4dCBfIHJlamVjdC0yMDAKCltTY3JpcHRdCiMgLS0tIFNwb3RpZnkgTHlyaWNzIFRyYW5zbGF0ZSAtLS0KIyBMxrB1IMO9OiBUaGF5ICLmraTlpITloavlhaVBUFBJRCIgdsOgICLmraTlpITloavlhaXlr4bpkqUiIGLhurFuZyBBcHBJRCB2w6AgU2VjcmV0IEtleSBCYWlkdSBUcmFuc2xhdGUgY+G7p2EgYuG6oW4Kc3BvdGlmeeatjOivjee/u+ivkSA9IHR5cGU9aHR0cC1yZXNwb25zZSxwYXR0ZXJuPV5odHRwczpcL1wvc3BjbGllbnRcLndnXC5zcG90aWZ5XC5jb21cL2NvbG9yLWx5cmljc1wvdjJcL3RyYWNrXC8scmVxdWlyZXMtYm9keT0xLGJpbmFyeS1ib2R5LW1vZGU9MSxtYXgtc2l6ZT0wLHNjcmlwdC1wYXRoPWh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9hcHAyc21pbGUvcnVsZXMvbWFzdGVyL2pzL3Nwb3RpZnktbHlyaWMuanMsYXJndW1lbnQ9YXBwaWQ95q2k5aSE5aGr5YWlQVBQSUQmc2VjdXJpdHlLZXk95q2k5aSE5aGr5YWl5a+G6ZKlCgojIC0tLSBMb2NrZXQgR29sZCAtLS0KcmV2ZW51ZWNhdCA9IHR5cGU9aHR0cC1yZXNwb25zZSwgcGF0dGVybj1eaHR0cHM6XC9cL2FwaVwucmV2ZW51ZWNhdFwuY29tXC8uK1wvKHJlY2VpcHRzJHxzdWJzY3JpYmVyc1wvW14vXSskKSwgc2NyaXB0LXBhdGg9aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3Z1b25nMjAyMy9zaGFkL21haW4vanMvTG9ja2V0X09ob2FuZzcuanMsIHJlcXVpcmVzLWJvZHk9dHJ1ZSwgbWF4LXNpemU9LTEsIHRpbWVvdXQ9NjAKZGVsZXRlSGVhZGVyID0gdHlwZT1odHRwLXJlcXVlc3QsIHBhdHRlcm49Xmh0dHBzOlwvXC9hcGlcLnJldmVudWVjYXRcLmNvbVwvLitcLyhyZWNlaXB0c3xzdWJzY3JpYmVycyksIHNjcmlwdC1wYXRoPWh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS92dW9uZzIwMjMvc2hhZC9tYWluL2pzL2RlbGV0ZUhlYWRlci5qcywgdGltZW91dD02MAoKIyAtLS0gWW91VHViZSAtLS0KIyBMxrB1IMO9OiBUaGF5IHRo4bq/IGPDoWMgdGhhbSBz4buRIHRyb25nIGFyZ3VtZW50IG7hur91IOG7qW5nIGThu6VuZyBj4bunYSBi4bqhbiBraMO0bmcgaOG7lyB0cuG7oyB2YXJpYWJsZSBtdXN0YWNoZSB7e3sgLi4uIH19fQp5b3V0dWJlLnJlc3BvbnNlID0gdHlwZT1odHRwLXJlc3BvbnNlLHBhdHRlcm49Xmh0dHBzOlwvXC95b3V0dWJlaVwuZ29vZ2xlYXBpc1wuY29tXC95b3V0dWJlaVwvdjFcLyhicm93c2V8bmV4dHxwbGF5ZXJ8c2VhcmNofHJlZWxcL3JlZWxfd2F0Y2hfc2VxdWVuY2V8Z3VpZGV8YWNjb3VudFwvZ2V0X3NldHRpbmd8Z2V0X3dhdGNoKSxyZXF1aXJlcy1ib2R5PTEsbWF4LXNpemU9LTEsYmluYXJ5LWJvZHktbW9kZT0xLHNjcmlwdC1wYXRoPWh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9NYWFzZWEvc2dtb2R1bGUvbWFzdGVyL1NjcmlwdC9Zb3V0dWJlL3lvdXR1YmUucmVzcG9uc2UuanMsYXJndW1lbnQ9InsibHlyaWNMYW5nIjoiemgtSGFucyIsImNhcHRpb25MYW5nIjoiemgtSGFucyIsImJsb2NrVXBsb2FkIjp0cnVlLCJibG9ja0ltbWVyc2l2ZSI6dHJ1ZSwiZGVidWciOmZhbHNlfSIKCiMgLS0tIFNvdW5kQ2xvdWQgR28rIC0tLQpTb3VuZENsb3VkR28rID0gdHlwZT1odHRwLXJlc3BvbnNlLHBhdHRlcm49aHR0cHM6Ly9hcGktbW9iaWxlLnNvdW5kY2xvdWQuY29tL2NvbmZpZ3VyYXRpb24vaW9zLHJlcXVpcmVzLWJvZHk9MSxzY3JpcHQtcGF0aD1odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vTWFyb2w2MjkyNi9NYXJTY3JwdC9tYWluL3NvdW5kY2xvdWQuanMKCltNSVRNXQpob3N0bmFtZSA9ICVBUFBFTkQlIHNwY2xpZW50LndnLnNwb3RpZnkuY29tLCBhcGkucmV2ZW51ZWNhdC5jb20sIC1yZWRpcmVjdG9yKi5nb29nbGV2aWRlby5jb20sICouZ29vZ2xldmlkZW8uY29tLCB3d3cueW91dHViZS5jb20sIHMueW91dHViZS5jb20sIHlvdXR1YmVpLmdvb2dsZWFwaXMuY29tLCBhcGktbW9iaWxlLnNvdW5kY2xvdWQuY29t
+#!anzr= Pbzovarq Zbqhyr (Fcbgvsl Ylevpf + Ybpxrg Tbyq + LbhGhor Nqoybpx + FbhaqPybhq Tb+)
+#!qrfp= Tộc páp zbqhyr: Qịpu yờv Fcbgvsl, Ybpxrg Tbyq, LbhGhor Cerzvhz/Ab Nqf, FbhaqPybhq Tb+
+
+[Ehyr]
+NAQ,((QBZNVA-FHSSVK,tbbtyrivqrb.pbz), (CEBGBPBY,HQC)),ERWRPG
+NAQ,((QBZNVA,lbhghorv.tbbtyrncvf.pbz), (CEBGBPBY,HQC)),ERWRPG
+
+[HEY Erjevgr]
+(^uggcf?:\/\/[\j-]+\.tbbtyrivqrb\.pbz\/(?!qpyx_ivqrb_nqf).+?)&pgvre=Y(&.+?),pgvre,(.+) $1$2$3 302
+^uggcf?:\/\/[\j-]+\.tbbtyrivqrb\.pbz\/(?!(qpyx_ivqrb_nqf|ivqrbcynlonpx\?)).+&bnq _ erwrpg-200
+^uggcf?:\/\/(jjj|f)\.lbhghor\.pbz\/ncv\/fgngf\/nqf _ erwrpg-200
+^uggcf?:\/\/(jjj|f)\.lbhghor\.pbz\/(cntrnq|cgenpxvat) _ erwrpg-200
+^uggcf?:\/\/f\.lbhghor\.pbz\/ncv\/fgngf\/dbr\?nqpbagrkg _ erwrpg-200
+
+[Fpevcg]
+# --- Fcbgvsl Ylevpf Genafyngr ---
+# Yưh ý: Gunl "此处填入NCCVQ" ià "此处填入密钥" oằat NccVQ ià Frperg Xrl Onvqh Genafyngr pủn oạa
+fcbgvsl歌词翻译 = glcr=uggc-erfcbafr,cnggrea=^uggcf:\/\/fcpyvrag\.jt\.fcbgvsl\.pbz\/pbybe-ylevpf\/i2\/genpx\/,erdhverf-obql=1,ovanel-obql-zbqr=1,znk-fvmr=0,fpevcg-cngu=uggcf://enj.tvguhohfrepbagrag.pbz/ncc2fzvyr/ehyrf/znfgre/wf/fcbgvsl-ylevp.wf,nethzrag=nccvq=此处填入NCCVQ&frphevglXrl=此处填入密钥
+
+# --- Ybpxrg Tbyq ---
+erirahrpng = glcr=uggc-erfcbafr, cnggrea=^uggcf:\/\/ncv\.erirahrpng\.pbz\/.+\/(erprvcgf$|fhofpevoref\/[^/]+$), fpevcg-cngu=uggcf://enj.tvguhohfrepbagrag.pbz/ihbat2023/funq/znva/wf/Ybpxrg_Bubnat7.wf, erdhverf-obql=gehr, znk-fvmr=-1, gvzrbhg=60
+qryrgrUrnqre = glcr=uggc-erdhrfg, cnggrea=^uggcf:\/\/ncv\.erirahrpng\.pbz\/.+\/(erprvcgf|fhofpevoref), fpevcg-cngu=uggcf://enj.tvguhohfrepbagrag.pbz/ihbat2023/funq/znva/wf/qryrgrUrnqre.wf, gvzrbhg=60
+
+# --- LbhGhor ---
+# Yưh ý: Gunl guế páp gunz fố gebat nethzrag aếh ứat qụat pủn oạa xuôat uỗ geợ inevnoyr zhfgnpur {{{ ... }}}
+lbhghor.erfcbafr = glcr=uggc-erfcbafr,cnggrea=^uggcf:\/\/lbhghorv\.tbbtyrncvf\.pbz\/lbhghorv\/i1\/(oebjfr|arkg|cynlre|frnepu|erry\/erry_jngpu_frdhrapr|thvqr|nppbhag\/trg_frggvat|trg_jngpu),erdhverf-obql=1,znk-fvmr=-1,ovanel-obql-zbqr=1,fpevcg-cngu=uggcf://enj.tvguhohfrepbagrag.pbz/Znnfrn/ftzbqhyr/znfgre/Fpevcg/Lbhghor/lbhghor.erfcbafr.wf,nethzrag="{"ylevpYnat":"mu-Unaf","pncgvbaYnat":"mu-Unaf","oybpxHcybnq":gehr,"oybpxVzzrefvir":gehr,"qroht":snyfr}"
+
+# --- FbhaqPybhq Tb+ ---
+FbhaqPybhqTb+ = glcr=uggc-erfcbafr,cnggrea=uggcf://ncv-zbovyr.fbhaqpybhq.pbz/pbasvthengvba/vbf,erdhverf-obql=1,fpevcg-cngu=uggcf://enj.tvguhohfrepbagrag.pbz/Zneby62926/ZneFpecg/znva/fbhaqpybhq.wf
+
+[ZVGZ]
+ubfganzr = %NCCRAQ% fcpyvrag.jt.fcbgvsl.pbz, ncv.erirahrpng.pbz, -erqverpgbe*.tbbtyrivqrb.pbz, *.tbbtyrivqrb.pbz, jjj.lbhghor.pbz, f.lbhghor.pbz, lbhghorv.tbbtyrncvf.pbz, ncv-zbovyr.fbhaqpybhq.pbz

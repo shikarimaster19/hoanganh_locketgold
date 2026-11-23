@@ -1,5 +1,6 @@
 #!name= Combined Module (Spotify Lyrics + Locket Gold + YouTube Adblock + SoundCloud Go+)
 #!desc= Gộp các module: Dịch lời Spotify, Locket Gold, YouTube Premium/No Ads, SoundCloud Go+
+#Tobi Hoàng Anh 
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
